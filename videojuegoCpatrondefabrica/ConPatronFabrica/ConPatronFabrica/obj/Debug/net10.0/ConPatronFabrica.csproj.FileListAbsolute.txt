@@ -1,0 +1,14 @@
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\bin\Debug\net10.0\ConPatronFabrica.exe
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\bin\Debug\net10.0\ConPatronFabrica.deps.json
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\bin\Debug\net10.0\ConPatronFabrica.runtimeconfig.json
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\bin\Debug\net10.0\ConPatronFabrica.dll
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\bin\Debug\net10.0\ConPatronFabrica.pdb
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\obj\Debug\net10.0\ConPatronFabrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\obj\Debug\net10.0\ConPatronFabrica.AssemblyInfoInputs.cache
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\obj\Debug\net10.0\ConPatronFabrica.AssemblyInfo.cs
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\obj\Debug\net10.0\ConPatronFabrica.csproj.CoreCompileInputs.cache
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\obj\Debug\net10.0\ConPatronFabrica.dll
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\obj\Debug\net10.0\refint\ConPatronFabrica.dll
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\obj\Debug\net10.0\ConPatronFabrica.pdb
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\obj\Debug\net10.0\ConPatronFabrica.genruntimeconfig.cache
+C:\Users\Fundauco Estudiantes\Desktop\POO\videojuegoCpatrondefabrica\ConPatronFabrica\ConPatronFabrica\obj\Debug\net10.0\ref\ConPatronFabrica.dll
